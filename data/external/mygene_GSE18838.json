@@ -1,0 +1,528 @@
+[
+  {
+    "query": "2569649",
+    "_id": "10913",
+    "_score": 19.275824,
+    "ensembl": {
+      "gene": "ENSG00000135960"
+    },
+    "entrezgene": "10913",
+    "name": "ectodysplasin A receptor",
+    "symbol": "EDAR"
+  },
+  {
+    "query": "3474815",
+    "_id": "64897",
+    "_score": 19.275824,
+    "ensembl": {
+      "gene": "ENSG00000157895"
+    },
+    "entrezgene": "64897",
+    "name": "chromosome 12 open reading frame 43",
+    "symbol": "C12orf43"
+  },
+  {
+    "query": "3811339",
+    "_id": "596",
+    "_score": 19.275824,
+    "ensembl": {
+      "gene": "ENSG00000171791"
+    },
+    "entrezgene": "596",
+    "name": "BCL2 apoptosis regulator",
+    "symbol": "BCL2"
+  },
+  {
+    "query": "2845417",
+    "notfound": true
+  },
+  {
+    "query": "3744410",
+    "_id": "124751",
+    "_score": 19.275824,
+    "ensembl": {
+      "gene": "ENSG00000184619"
+    },
+    "entrezgene": "124751",
+    "name": "KRAB domain containing 2",
+    "symbol": "KRABD2"
+  },
+  {
+    "query": "3022409",
+    "_id": "381",
+    "_score": 19.275824,
+    "ensembl": {
+      "gene": "ENSG00000004059"
+    },
+    "entrezgene": "381",
+    "name": "ARF GTPase 5",
+    "symbol": "ARF5"
+  },
+  {
+    "query": "2400655",
+    "_id": "5909",
+    "_score": 19.275824,
+    "ensembl": {
+      "gene": "ENSG00000076864"
+    },
+    "entrezgene": "5909",
+    "name": "RAP1 GTPase activating protein",
+    "symbol": "RAP1GAP"
+  },
+  {
+    "query": "3770328",
+    "_id": "100131439",
+    "_score": 19.275824,
+    "ensembl": [
+      {
+        "gene": "ENSG00000204345"
+      },
+      {
+        "gene": "ENSG00000291922"
+      }
+    ],
+    "entrezgene": "100131439",
+    "name": "CD300 molecule like family member d",
+    "symbol": "CD300LD"
+  },
+  {
+    "query": "3413067",
+    "_id": "91523",
+    "_score": 19.275824,
+    "ensembl": {
+      "gene": "ENSG00000179715"
+    },
+    "entrezgene": "91523",
+    "name": "PC-esterase domain containing 1B",
+    "symbol": "PCED1B"
+  },
+  {
+    "query": "3937967",
+    "_id": "642633",
+    "_score": 16.372229,
+    "ensembl": {
+      "gene": "ENSG00000215498"
+    },
+    "entrezgene": "642633",
+    "name": "family with sequence similarity 230 member B",
+    "symbol": "FAM230B"
+  },
+  {
+    "query": "3937967",
+    "_id": "729461",
+    "_score": 16.372229,
+    "ensembl": {
+      "gene": "ENSG00000274044"
+    },
+    "entrezgene": "729461",
+    "name": "family with sequence similarity 230 member J",
+    "symbol": "FAM230J"
+  },
+  {
+    "query": "3937967",
+    "_id": "26080",
+    "_score": 16.372229,
+    "ensembl": [
+      {
+        "gene": "ENSG00000279516"
+      },
+      {
+        "gene": "ENSG00000281252"
+      }
+    ],
+    "entrezgene": "26080",
+    "name": "family with sequence similarity 230 member C",
+    "symbol": "FAM230C"
+  },
+  {
+    "query": "3937967",
+    "_id": "653203",
+    "_score": 16.372229,
+    "ensembl": {
+      "gene": "ENSG00000277870"
+    },
+    "entrezgene": "653203",
+    "name": "family with sequence similarity 230 member A",
+    "symbol": "FAM230A"
+  },
+  {
+    "query": "3937967",
+    "_id": "100996415",
+    "_score": 16.372229,
+    "entrezgene": "100996415",
+    "name": "family with sequence similarity 230 member D",
+    "symbol": "FAM230D"
+  },
+  {
+    "query": "3937967",
+    "_id": "101927859",
+    "_score": 16.372229,
+    "entrezgene": "101927859",
+    "name": "family with sequence similarity 230 member G",
+    "symbol": "FAM230G"
+  },
+  {
+    "query": "3389566",
+    "_id": "143879",
+    "_score": 19.275824,
+    "ensembl": {
+      "gene": "ENSG00000182359"
+    },
+    "entrezgene": "143879",
+    "name": "kelch repeat and BTB domain containing 3",
+    "symbol": "KBTBD3"
+  },
+  {
+    "query": "3044518",
+    "_id": "63974",
+    "_score": 19.275824,
+    "ensembl": {
+      "gene": "ENSG00000164600"
+    },
+    "entrezgene": "63974",
+    "name": "neuronal differentiation 6",
+    "symbol": "NEUROD6"
+  },
+  {
+    "query": "3464405",
+    "_id": "9182",
+    "_score": 19.275824,
+    "ensembl": {
+      "gene": "ENSG00000198774"
+    },
+    "entrezgene": "9182",
+    "name": "Ras association domain family member 9",
+    "symbol": "RASSF9"
+  },
+  {
+    "query": "2341645",
+    "_id": "11147",
+    "_score": 19.275824,
+    "ensembl": {
+      "gene": "ENSG00000197568"
+    },
+    "entrezgene": "11147",
+    "name": "ANKRD13C divergent transcript",
+    "symbol": "ANKRD13C-DT"
+  },
+  {
+    "query": "3867928",
+    "_id": "51070",
+    "_score": 19.275824,
+    "ensembl": {
+      "gene": "ENSG00000142546"
+    },
+    "entrezgene": "51070",
+    "name": "nitric oxide synthase interacting protein",
+    "symbol": "NOSIP"
+  },
+  {
+    "query": "3174429",
+    "_id": "138241",
+    "_score": 19.275824,
+    "ensembl": {
+      "gene": "ENSG00000155621"
+    },
+    "entrezgene": "138241",
+    "name": "chromosome 9 open reading frame 85",
+    "symbol": "C9orf85"
+  },
+  {
+    "query": "3584443",
+    "_id": "100033414",
+    "_score": 11.954788,
+    "ensembl": {
+      "gene": "ENSG00000207001"
+    },
+    "entrezgene": "100033414",
+    "name": "small nucleolar RNA, C/D box 116-2",
+    "symbol": "SNORD116-2"
+  },
+  {
+    "query": "3584443",
+    "_id": "100033415",
+    "_score": 11.954788,
+    "ensembl": {
+      "gene": "ENSG00000207014"
+    },
+    "entrezgene": "100033415",
+    "name": "small nucleolar RNA, C/D box 116-3",
+    "symbol": "SNORD116-3"
+  },
+  {
+    "query": "3584443",
+    "_id": "100033417",
+    "_score": 11.954788,
+    "ensembl": {
+      "gene": "ENSG00000207191"
+    },
+    "entrezgene": "100033417",
+    "name": "small nucleolar RNA, C/D box 116-5",
+    "symbol": "SNORD116-5"
+  },
+  {
+    "query": "3584443",
+    "_id": "100033418",
+    "_score": 11.954788,
+    "ensembl": {
+      "gene": "ENSG00000207442"
+    },
+    "entrezgene": "100033418",
+    "name": "small nucleolar RNA, C/D box 116-6",
+    "symbol": "SNORD116-6"
+  },
+  {
+    "query": "3584443",
+    "_id": "100033419",
+    "_score": 11.954788,
+    "ensembl": {
+      "gene": "ENSG00000207133"
+    },
+    "entrezgene": "100033419",
+    "name": "small nucleolar RNA, C/D box 116-7",
+    "symbol": "SNORD116-7"
+  },
+  {
+    "query": "3584443",
+    "_id": "100033420",
+    "_score": 11.954788,
+    "ensembl": {
+      "gene": "ENSG00000207093"
+    },
+    "entrezgene": "100033420",
+    "name": "small nucleolar RNA, C/D box 116-8",
+    "symbol": "SNORD116-8"
+  },
+  {
+    "query": "3584443",
+    "_id": "100033421",
+    "_score": 11.954788,
+    "ensembl": {
+      "gene": "ENSG00000206727"
+    },
+    "entrezgene": "100033421",
+    "name": "small nucleolar RNA, C/D box 116-9",
+    "symbol": "SNORD116-9"
+  },
+  {
+    "query": "3584443",
+    "_id": "100033427",
+    "_score": 11.954788,
+    "ensembl": {
+      "gene": "ENSG00000207174"
+    },
+    "entrezgene": "100033427",
+    "name": "small nucleolar RNA, C/D box 116-15",
+    "symbol": "SNORD116-15"
+  },
+  {
+    "query": "3584443",
+    "_id": "100033428",
+    "_score": 11.954788,
+    "ensembl": {
+      "gene": "ENSG00000207263"
+    },
+    "entrezgene": "100033428",
+    "name": "small nucleolar RNA, C/D box 116-16",
+    "symbol": "SNORD116-16"
+  },
+  {
+    "query": "3584443",
+    "_id": "100033429",
+    "_score": 11.954788,
+    "ensembl": {
+      "gene": "ENSG00000206656"
+    },
+    "entrezgene": "100033429",
+    "name": "small nucleolar RNA, C/D box 116-17",
+    "symbol": "SNORD116-17"
+  },
+  {
+    "query": "2947063",
+    "_id": "8330",
+    "_score": 19.275824,
+    "ensembl": {
+      "gene": "ENSG00000275221"
+    },
+    "entrezgene": "8330",
+    "name": "H2A clustered histone 15",
+    "symbol": "H2AC15"
+  },
+  {
+    "query": "3022814",
+    "_id": "29923",
+    "_score": 19.275824,
+    "ensembl": {
+      "gene": "ENSG00000135245"
+    },
+    "entrezgene": "29923",
+    "name": "hypoxia inducible lipid droplet associated",
+    "symbol": "HILPDA"
+  },
+  {
+    "query": "3995975",
+    "_id": "6748",
+    "_score": 19.275824,
+    "ensembl": {
+      "gene": "ENSG00000180879"
+    },
+    "entrezgene": "6748",
+    "name": "signal sequence receptor subunit 4",
+    "symbol": "SSR4"
+  },
+  {
+    "query": "2675192",
+    "_id": "11334",
+    "_score": 19.275824,
+    "ensembl": {
+      "gene": "ENSG00000114383"
+    },
+    "entrezgene": "11334",
+    "name": "tumor suppressor 2, mitochondrial calcium regulator",
+    "symbol": "TUSC2"
+  },
+  {
+    "query": "2372169",
+    "notfound": true
+  },
+  {
+    "query": "3971329",
+    "_id": "404281",
+    "_score": 18.264303,
+    "ensembl": {
+      "gene": "ENSG00000230797"
+    },
+    "entrezgene": "404281",
+    "name": "YY2 transcription factor",
+    "symbol": "YY2"
+  },
+  {
+    "query": "3971329",
+    "_id": "51360",
+    "_score": 18.264303,
+    "ensembl": {
+      "gene": "ENSG00000012174"
+    },
+    "entrezgene": "51360",
+    "name": "membrane bound transcription factor peptidase, site 2",
+    "symbol": "MBTPS2"
+  },
+  {
+    "query": "3353853",
+    "_id": "338662",
+    "_score": 19.275824,
+    "ensembl": {
+      "gene": "ENSG00000181518"
+    },
+    "entrezgene": "338662",
+    "name": "olfactory receptor family 8 subfamily D member 4",
+    "symbol": "OR8D4"
+  },
+  {
+    "query": "3477610",
+    "notfound": true
+  },
+  {
+    "query": "2836665",
+    "_id": "79685",
+    "_score": 19.275824,
+    "ensembl": {
+      "gene": "ENSG00000164576"
+    },
+    "entrezgene": "79685",
+    "name": "SAP30 like",
+    "symbol": "SAP30L"
+  },
+  {
+    "query": "4007086",
+    "_id": "7592",
+    "_score": 19.275824,
+    "ensembl": {
+      "gene": "ENSG00000147124"
+    },
+    "entrezgene": "7592",
+    "name": "zinc finger protein 41",
+    "symbol": "ZNF41"
+  },
+  {
+    "query": "3733999",
+    "_id": "55028",
+    "_score": 19.275824,
+    "ensembl": {
+      "gene": "ENSG00000141219"
+    },
+    "entrezgene": "55028",
+    "name": "mitochondrial nucleoid associated protein 1",
+    "symbol": "MTNAP1"
+  },
+  {
+    "query": "3883542",
+    "notfound": true
+  },
+  {
+    "query": "3822287",
+    "_id": "81576",
+    "_score": 19.275824,
+    "ensembl": {
+      "gene": "ENSG00000104957"
+    },
+    "entrezgene": "81576",
+    "name": "YJU2 splicing factor homolog B",
+    "symbol": "YJU2B"
+  },
+  {
+    "query": "3479519",
+    "_id": "100289635",
+    "_score": 17.59803,
+    "ensembl": {
+      "gene": "ENSG00000196458"
+    },
+    "entrezgene": "100289635",
+    "name": "zinc finger protein 605",
+    "symbol": "ZNF605"
+  },
+  {
+    "query": "3479519",
+    "_id": "55743",
+    "_score": 17.59803,
+    "ensembl": {
+      "gene": "ENSG00000072609"
+    },
+    "entrezgene": "55743",
+    "name": "checkpoint with forkhead and ring finger domains",
+    "symbol": "CHFR"
+  },
+  {
+    "query": "3479519",
+    "_id": "101060200",
+    "_score": 17.59803,
+    "ensembl": {
+      "gene": "ENSG00000214029"
+    },
+    "entrezgene": "101060200",
+    "name": "zinc finger protein 891",
+    "symbol": "ZNF891"
+  },
+  {
+    "query": "3923537",
+    "_id": "8209",
+    "_score": 18.264303,
+    "ensembl": {
+      "gene": "ENSG00000160221"
+    },
+    "entrezgene": "8209",
+    "name": "glutamine amidotransferase class 1 domain containing 3",
+    "symbol": "GATD3"
+  },
+  {
+    "query": "3923537",
+    "_id": "102724023",
+    "_score": 18.264303,
+    "ensembl": {
+      "gene": "ENSG00000280071"
+    },
+    "entrezgene": "102724023",
+    "name": "glutamine amidotransferase class 1 domain containing 3B",
+    "symbol": "LOC102724023"
+  }
+]

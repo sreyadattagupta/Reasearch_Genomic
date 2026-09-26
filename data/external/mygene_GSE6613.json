@@ -1,0 +1,369 @@
+[
+  {
+    "query": "209950_s_at",
+    "_id": "50853",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000136059"
+    },
+    "entrezgene": "50853",
+    "name": "villin like",
+    "symbol": "VILL"
+  },
+  {
+    "query": "206639_x_at",
+    "_id": "3346",
+    "_score": 19.011751,
+    "ensembl": [
+      {
+        "gene": "ENSG00000126550"
+      },
+      {
+        "gene": "ENSG00000283046"
+      }
+    ],
+    "entrezgene": "3346",
+    "name": "histatin 1",
+    "symbol": "HTN1"
+  },
+  {
+    "query": "207983_s_at",
+    "_id": "10735",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000101972"
+    },
+    "entrezgene": "10735",
+    "name": "STAG2 cohesin complex component",
+    "symbol": "STAG2"
+  },
+  {
+    "query": "207123_s_at",
+    "_id": "8785",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000124159"
+    },
+    "entrezgene": "8785",
+    "name": "matrilin 4",
+    "symbol": "MATN4"
+  },
+  {
+    "query": "219291_at",
+    "_id": "56986",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000104047"
+    },
+    "entrezgene": "56986",
+    "name": "DTW motif tRNA-uridine aminocarboxypropyltransferase 1",
+    "symbol": "DTWD1"
+  },
+  {
+    "query": "205048_s_at",
+    "_id": "5723",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000146733"
+    },
+    "entrezgene": "5723",
+    "name": "phosphoserine phosphatase",
+    "symbol": "PSPH"
+  },
+  {
+    "query": "201711_x_at",
+    "_id": "5903",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000153201"
+    },
+    "entrezgene": "5903",
+    "name": "RAN binding protein 2",
+    "symbol": "RANBP2"
+  },
+  {
+    "query": "220645_at",
+    "_id": "54827",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000137634"
+    },
+    "entrezgene": "54827",
+    "name": "neurexophilin and PC-esterase domain family member 4",
+    "symbol": "NXPE4"
+  },
+  {
+    "query": "205437_at",
+    "_id": "10520",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000121417"
+    },
+    "entrezgene": "10520",
+    "name": "zinc finger protein 211",
+    "symbol": "ZNF211"
+  },
+  {
+    "query": "215375_x_at",
+    "_id": "9208",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000124831"
+    },
+    "entrezgene": "9208",
+    "name": "LRR binding FLII interacting protein 1",
+    "symbol": "LRRFIP1"
+  },
+  {
+    "query": "217653_x_at",
+    "notfound": true
+  },
+  {
+    "query": "200679_x_at",
+    "_id": "3146",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000189403"
+    },
+    "entrezgene": "3146",
+    "name": "high mobility group box 1",
+    "symbol": "HMGB1"
+  },
+  {
+    "query": "208213_s_at",
+    "_id": "7881",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000169282"
+    },
+    "entrezgene": "7881",
+    "name": "potassium voltage-gated channel subfamily A regulatory beta subunit 1",
+    "symbol": "KCNAB1"
+  },
+  {
+    "query": "217115_at",
+    "_id": "7686",
+    "_score": 6.132823,
+    "ensembl": {
+      "gene": "ENSG00000225849"
+    },
+    "entrezgene": "7686",
+    "name": "makorin ring finger protein 7, pseudogene",
+    "symbol": "MKRN7P"
+  },
+  {
+    "query": "201326_at",
+    "_id": "908",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000146731"
+    },
+    "entrezgene": "908",
+    "name": "chaperonin containing TCP1 subunit 6A",
+    "symbol": "CCT6A"
+  },
+  {
+    "query": "203957_at",
+    "_id": "1876",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000169016"
+    },
+    "entrezgene": "1876",
+    "name": "E2F transcription factor 6",
+    "symbol": "E2F6"
+  },
+  {
+    "query": "213750_at",
+    "_id": "26156",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000171490"
+    },
+    "entrezgene": "26156",
+    "name": "ribosomal L1 domain containing 1",
+    "symbol": "RSL1D1"
+  },
+  {
+    "query": "212885_at",
+    "_id": "10199",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000124383"
+    },
+    "entrezgene": "10199",
+    "name": "M-phase phosphoprotein 10",
+    "symbol": "MPHOSPH10"
+  },
+  {
+    "query": "218968_s_at",
+    "_id": "55734",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000020256"
+    },
+    "entrezgene": "55734",
+    "name": "ZFP64 zinc finger protein",
+    "symbol": "ZFP64"
+  },
+  {
+    "query": "210964_s_at",
+    "_id": "8908",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000056998"
+    },
+    "entrezgene": "8908",
+    "name": "glycogenin 2",
+    "symbol": "GYG2"
+  },
+  {
+    "query": "201101_s_at",
+    "_id": "9774",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000029363"
+    },
+    "entrezgene": "9774",
+    "name": "BCL2 associated transcription factor 1",
+    "symbol": "BCLAF1"
+  },
+  {
+    "query": "201029_s_at",
+    "_id": "4267",
+    "_score": 19.011751,
+    "ensembl": [
+      {
+        "gene": "ENSG00000002586"
+      },
+      {
+        "gene": "ENSG00000292348"
+      }
+    ],
+    "entrezgene": "4267",
+    "name": "CD99 molecule (Xg blood group)",
+    "symbol": "CD99"
+  },
+  {
+    "query": "211751_at",
+    "_id": "653513",
+    "_score": 17.33061,
+    "ensembl": {
+      "gene": "ENSG00000291233"
+    },
+    "entrezgene": "653513",
+    "name": "phosphodiesterase 4D interacting protein-like",
+    "symbol": "LOC653513"
+  },
+  {
+    "query": "211751_at",
+    "_id": "9659",
+    "_score": 17.33061,
+    "ensembl": {
+      "gene": "ENSG00000178104"
+    },
+    "entrezgene": "9659",
+    "name": "phosphodiesterase 4D interacting protein",
+    "symbol": "PDE4DIP"
+  },
+  {
+    "query": "211751_at",
+    "_id": "100996724",
+    "_score": 5.5905194,
+    "entrezgene": "100996724",
+    "name": "PDE4DIP pseudogene 2",
+    "symbol": "PDE4DIPP2"
+  },
+  {
+    "query": "207183_at",
+    "_id": "2842",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000183150"
+    },
+    "entrezgene": "2842",
+    "name": "G protein-coupled receptor 19",
+    "symbol": "GPR19"
+  },
+  {
+    "query": "203674_at",
+    "_id": "9931",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000198265"
+    },
+    "entrezgene": "9931",
+    "name": "helicase with zinc finger",
+    "symbol": "HELZ"
+  },
+  {
+    "query": "208113_x_at",
+    "_id": "5042",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000151846"
+    },
+    "entrezgene": "5042",
+    "name": "poly(A) binding protein cytoplasmic 3",
+    "symbol": "PABPC3"
+  },
+  {
+    "query": "202778_s_at",
+    "_id": "7750",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000121741"
+    },
+    "entrezgene": "7750",
+    "name": "zinc finger MYM-type containing 2",
+    "symbol": "ZMYM2"
+  },
+  {
+    "query": "215472_at",
+    "_id": "135138",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000112530"
+    },
+    "entrezgene": "135138",
+    "name": "parkin coregulated",
+    "symbol": "PACRG"
+  },
+  {
+    "query": "218131_s_at",
+    "_id": "54815",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000167491"
+    },
+    "entrezgene": "54815",
+    "name": "GATA zinc finger domain containing 2A",
+    "symbol": "GATAD2A"
+  },
+  {
+    "query": "203243_s_at",
+    "_id": "10611",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000163110"
+    },
+    "entrezgene": "10611",
+    "name": "PDZ and LIM domain 5",
+    "symbol": "PDLIM5"
+  },
+  {
+    "query": "216547_at",
+    "notfound": true
+  },
+  {
+    "query": "201947_s_at",
+    "_id": "10576",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000166226"
+    },
+    "entrezgene": "10576",
+    "name": "chaperonin containing TCP1 subunit 2",
+    "symbol": "CCT2"
+  }
+]

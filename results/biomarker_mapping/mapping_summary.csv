@@ -1,0 +1,6 @@
+dataset,platform,n_probes,n_mapped,n_unmapped,n_ambiguous,n_duplicate_genes,pct_mapped
+GSE99039,GPL570,32,27,5,3,0,84.4
+GSE6613,GPL96,32,30,2,1,0,93.8
+GSE72267,GPL571,32,27,5,1,1,84.4
+GSE18838,GPL5175,32,28,4,5,0,87.5
+GSE57475,GPL6947,32,29,3,0,0,90.6

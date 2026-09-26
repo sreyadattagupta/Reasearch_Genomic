@@ -1,0 +1,402 @@
+[
+  {
+    "query": "220906_at",
+    "notfound": true
+  },
+  {
+    "query": "217957_at",
+    "_id": "29105",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000070761"
+    },
+    "entrezgene": "29105",
+    "name": "cilia and flagella associated protein 20",
+    "symbol": "CFAP20"
+  },
+  {
+    "query": "206382_s_at",
+    "_id": "627",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000176697"
+    },
+    "entrezgene": "627",
+    "name": "brain derived neurotrophic factor",
+    "symbol": "BDNF"
+  },
+  {
+    "query": "220637_at",
+    "_id": "79843",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000124019"
+    },
+    "entrezgene": "79843",
+    "name": "family with sequence similarity 124 member B",
+    "symbol": "FAM124B"
+  },
+  {
+    "query": "210335_at",
+    "_id": "9182",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000198774"
+    },
+    "entrezgene": "9182",
+    "name": "Ras association domain family member 9",
+    "symbol": "RASSF9"
+  },
+  {
+    "query": "206443_at",
+    "_id": "6096",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000198963"
+    },
+    "entrezgene": "6096",
+    "name": "RAR related orphan receptor B",
+    "symbol": "RORB"
+  },
+  {
+    "query": "205342_s_at",
+    "_id": "6819",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000198203"
+    },
+    "entrezgene": "6819",
+    "name": "sulfotransferase family 1C member 2",
+    "symbol": "SULT1C2"
+  },
+  {
+    "query": "208098_at",
+    "_id": "81797",
+    "_score": 17.998209,
+    "ensembl": [
+      {
+        "gene": "ENSG00000224487"
+      },
+      {
+        "gene": "ENSG00000251394"
+      },
+      {
+        "gene": "ENSG00000112462"
+      },
+      {
+        "gene": "ENSG00000242022"
+      },
+      {
+        "gene": "ENSG00000250364"
+      },
+      {
+        "gene": "ENSG00000204692"
+      },
+      {
+        "gene": "ENSG00000229181"
+      }
+    ],
+    "entrezgene": "81797",
+    "name": "olfactory receptor family 12 subfamily D member 3",
+    "symbol": "OR12D3"
+  },
+  {
+    "query": "208098_at",
+    "_id": "81696",
+    "_score": 17.998209,
+    "ensembl": [
+      {
+        "gene": "ENSG00000243441"
+      },
+      {
+        "gene": "ENSG00000243729"
+      },
+      {
+        "gene": "ENSG00000112461"
+      },
+      {
+        "gene": "ENSG00000227137"
+      },
+      {
+        "gene": "ENSG00000233046"
+      },
+      {
+        "gene": "ENSG00000242289"
+      },
+      {
+        "gene": "ENSG00000230742"
+      },
+      {
+        "gene": "ENSG00000240130"
+      }
+    ],
+    "entrezgene": "81696",
+    "name": "olfactory receptor family 5 subfamily V member 1",
+    "symbol": "OR5V1"
+  },
+  {
+    "query": "220664_at",
+    "_id": "6702",
+    "_score": 6.132823,
+    "ensembl": {
+      "gene": "ENSG00000301592"
+    },
+    "entrezgene": "6702",
+    "name": "small proline rich protein 2C (pseudogene)",
+    "symbol": "SPRR2C"
+  },
+  {
+    "query": "215869_at",
+    "notfound": true
+  },
+  {
+    "query": "214489_at",
+    "_id": "2488",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000131808"
+    },
+    "entrezgene": "2488",
+    "name": "follicle stimulating hormone subunit beta",
+    "symbol": "FSHB"
+  },
+  {
+    "query": "221417_x_at",
+    "_id": "53637",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000180739"
+    },
+    "entrezgene": "53637",
+    "name": "sphingosine-1-phosphate receptor 5",
+    "symbol": "S1PR5"
+  },
+  {
+    "query": "219388_at",
+    "_id": "79977",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000083307"
+    },
+    "entrezgene": "79977",
+    "name": "grainyhead like transcription factor 2",
+    "symbol": "GRHL2"
+  },
+  {
+    "query": "216807_at",
+    "_id": "85452",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000142609"
+    },
+    "entrezgene": "85452",
+    "name": "cilia and flagella associated protein 74",
+    "symbol": "CFAP74"
+  },
+  {
+    "query": "209968_s_at",
+    "_id": "4684",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000149294"
+    },
+    "entrezgene": "4684",
+    "name": "neural cell adhesion molecule 1",
+    "symbol": "NCAM1"
+  },
+  {
+    "query": "213435_at",
+    "_id": "23314",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000119042"
+    },
+    "entrezgene": "23314",
+    "name": "SATB homeobox 2",
+    "symbol": "SATB2"
+  },
+  {
+    "query": "210523_at",
+    "_id": "658",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000138696"
+    },
+    "entrezgene": "658",
+    "name": "bone morphogenetic protein receptor type 1B",
+    "symbol": "BMPR1B"
+  },
+  {
+    "query": "207705_s_at",
+    "_id": "22981",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000101004"
+    },
+    "entrezgene": "22981",
+    "name": "ninein like",
+    "symbol": "NINL"
+  },
+  {
+    "query": "207210_at",
+    "_id": "2556",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000011677"
+    },
+    "entrezgene": "2556",
+    "name": "gamma-aminobutyric acid type A receptor subunit alpha3",
+    "symbol": "GABRA3"
+  },
+  {
+    "query": "216605_s_at",
+    "_id": "90273",
+    "_score": 19.011751,
+    "ensembl": [
+      {
+        "gene": "ENSG00000007129"
+      },
+      {
+        "gene": "ENSG00000278565"
+      }
+    ],
+    "entrezgene": "90273",
+    "name": "CEA cell adhesion molecule 21",
+    "symbol": "CEACAM21"
+  },
+  {
+    "query": "222296_at",
+    "notfound": true
+  },
+  {
+    "query": "215766_at",
+    "_id": "2938",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000243955"
+    },
+    "entrezgene": "2938",
+    "name": "glutathione S-transferase alpha 1",
+    "symbol": "GSTA1"
+  },
+  {
+    "query": "214907_at",
+    "_id": "90273",
+    "_score": 19.011751,
+    "ensembl": [
+      {
+        "gene": "ENSG00000007129"
+      },
+      {
+        "gene": "ENSG00000278565"
+      }
+    ],
+    "entrezgene": "90273",
+    "name": "CEA cell adhesion molecule 21",
+    "symbol": "CEACAM21"
+  },
+  {
+    "query": "216343_at",
+    "notfound": true
+  },
+  {
+    "query": "213963_s_at",
+    "_id": "8819",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000164105"
+    },
+    "entrezgene": "8819",
+    "name": "Sin3A associated protein 30",
+    "symbol": "SAP30"
+  },
+  {
+    "query": "216065_at",
+    "_id": "8705",
+    "_score": 19.011751,
+    "ensembl": [
+      {
+        "gene": "ENSG00000236802"
+      },
+      {
+        "gene": "ENSG00000235155"
+      },
+      {
+        "gene": "ENSG00000235863"
+      },
+      {
+        "gene": "ENSG00000226936"
+      },
+      {
+        "gene": "ENSG00000206285"
+      }
+    ],
+    "entrezgene": "8705",
+    "name": "beta-1,3-galactosyltransferase 4",
+    "symbol": "B3GALT4"
+  },
+  {
+    "query": "217207_s_at",
+    "_id": "10917",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000168903"
+    },
+    "entrezgene": "10917",
+    "name": "butyrophilin like 3",
+    "symbol": "BTNL3"
+  },
+  {
+    "query": "206228_at",
+    "_id": "5076",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000075891"
+    },
+    "entrezgene": "5076",
+    "name": "paired box 2",
+    "symbol": "PAX2"
+  },
+  {
+    "query": "213972_at",
+    "notfound": true
+  },
+  {
+    "query": "216897_s_at",
+    "_id": "199870",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000009780"
+    },
+    "entrezgene": "199870",
+    "name": "family with sequence similarity 76 member A",
+    "symbol": "FAM76A"
+  },
+  {
+    "query": "205727_at",
+    "_id": "7011",
+    "_score": 19.011751,
+    "ensembl": [
+      {
+        "gene": "ENSG00000129566"
+      },
+      {
+        "gene": "ENSG00000291791"
+      }
+    ],
+    "entrezgene": "7011",
+    "name": "telomerase associated protein 1",
+    "symbol": "TEP1"
+  },
+  {
+    "query": "49452_at",
+    "_id": "32",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000076555"
+    },
+    "entrezgene": "32",
+    "name": "acetyl-CoA carboxylase beta",
+    "symbol": "ACACB"
+  }
+]

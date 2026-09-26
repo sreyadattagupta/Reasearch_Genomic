@@ -1,0 +1,33 @@
+ID,Symbol,Entrez_Gene_ID,RefSeq_ID,Definition,ILMN_Gene
+ILMN_1806304,ENTPD4,9583,NM_004901.2,"Homo sapiens ectonucleoside triphosphate diphosphohydrolase 4 (ENTPD4), mRNA.",ENTPD4
+ILMN_1702197,C9orf140,89958,NM_178448.2,"Homo sapiens chromosome 9 open reading frame 140 (C9orf140), mRNA.",C9ORF140
+ILMN_2359029,C11orf17,56672,NM_020642.3,"Homo sapiens chromosome 11 open reading frame 17 (C11orf17), transcript variant 2, mRNA.",C11ORF17
+ILMN_2352023,RIPK5,25778,NM_199462.1,"Homo sapiens receptor interacting protein kinase 5 (RIPK5), transcript variant 2, mRNA.",RIPK5
+ILMN_1722738,ROGDI,79641,NM_024589.1,"Homo sapiens rogdi homolog (Drosophila) (ROGDI), mRNA.",ROGDI
+ILMN_1727642,GCS1,7841,NM_006302.2,"Homo sapiens glucosidase I (GCS1), mRNA.",GCS1
+ILMN_1905013,,,,"UI-H-EI1-ayw-e-16-0-UI.s1 NCI_CGAP_EI1 Homo sapiens cDNA clone IMAGE:5844471 3, mRNA sequence",HS.566268
+ILMN_1731720,PDRG1,81572,NM_030815.2,"Homo sapiens p53 and DNA damage regulated 1 (PDRG1), mRNA.",PDRG1
+ILMN_1749834,LOC388588,388588,XM_932890.2,"PREDICTED: Homo sapiens hypothetical LOC388588, transcript variant 2 (LOC388588), mRNA.",LOC388588
+ILMN_1687359,MRPS23,51649,NM_016070.2,"Homo sapiens mitochondrial ribosomal protein S23 (MRPS23), nuclear gene encoding mitochondrial protein, mRNA.",MRPS23
+ILMN_1706410,HUS1B,135458,NM_148959.3,"Homo sapiens HUS1 checkpoint homolog b (S. pombe) (HUS1B), mRNA.",HUS1B
+ILMN_1681888,PRKAR2A,5576,NM_004157.2,"Homo sapiens protein kinase, cAMP-dependent, regulatory, type II, alpha (PRKAR2A), mRNA.",PRKAR2A
+ILMN_1696974,ANG,283,NM_001097577.1,"Homo sapiens angiogenin, ribonuclease, RNase A family, 5 (ANG), transcript variant 2, mRNA.",ANG
+ILMN_1670542,AK2,204,NM_001625.2,"Homo sapiens adenylate kinase 2 (AK2), transcript variant AK2A, mRNA.",AK2
+ILMN_1723494,SIRT2,22933,NM_012237.2,"Homo sapiens sirtuin (silent mating type information regulation 2 homolog) 2 (S. cerevisiae) (SIRT2), transcript variant 1, mRNA.",SIRT2
+ILMN_1813833,NARFL,64428,NM_022493.1,"Homo sapiens nuclear prelamin A recognition factor-like (NARFL), mRNA.",NARFL
+ILMN_1834190,,,,"UI-CF-DU1-adn-l-06-0-UI.s1 UI-CF-DU1 Homo sapiens cDNA clone UI-CF-DU1-adn-l-06-0-UI 3, mRNA sequence",HS.575310
+ILMN_1752914,CDGAP,57514,NM_020754.1,"Homo sapiens Cdc42 GTPase-activating protein (CDGAP), mRNA.",CDGAP
+ILMN_2062754,SRA1,10011,NM_001035235.2,"Homo sapiens steroid receptor RNA activator 1 (SRA1), mRNA.",SRA1
+ILMN_1807613,GPR34,2857,NM_001033513.2,"Homo sapiens G protein-coupled receptor 34 (GPR34), transcript variant 2, mRNA.",GPR34
+ILMN_1779751,C7orf55,154791,NM_197964.2,"Homo sapiens chromosome 7 open reading frame 55 (C7orf55), mRNA.",C7ORF55
+ILMN_1685602,TMEM41A,90407,NM_080652.2,"Homo sapiens transmembrane protein 41A (TMEM41A), mRNA.",TMEM41A
+ILMN_1672165,LOC643453,643453,XM_928442.1,"PREDICTED: Homo sapiens hypothetical protein LOC643453 (LOC643453), mRNA.",LOC643453
+ILMN_2285618,DIP2A,23181,NM_015151.2,"Homo sapiens DIP2 disco-interacting protein 2 homolog A (Drosophila) (DIP2A), transcript variant 1, mRNA.",DIP2A
+ILMN_1702229,CECR6,27439,NM_031890.2,"Homo sapiens cat eye syndrome chromosome region, candidate 6 (CECR6), mRNA.",CECR6
+ILMN_2390310,C17orf91,84981,NM_001001870.1,"Homo sapiens chromosome 17 open reading frame 91 (C17orf91), transcript variant 2, mRNA.",C17ORF91
+ILMN_2153485,NMNAT3,349565,NM_178177.2,"Homo sapiens nicotinamide nucleotide adenylyltransferase 3 (NMNAT3), mRNA.",NMNAT3
+ILMN_1791149,ARL6IP4,51329,NM_018694.2,"Homo sapiens ADP-ribosylation-like factor 6 interacting protein 4 (ARL6IP4), transcript variant 1, mRNA.",ARL6IP4
+ILMN_1653712,UAP1L1,91373,NM_207309.1,"Homo sapiens UDP-N-acteylglucosamine pyrophosphorylase 1-like 1 (UAP1L1), mRNA.",UAP1L1
+ILMN_1792323,HDC,3067,NM_002112.2,"Homo sapiens histidine decarboxylase (HDC), mRNA.",HDC
+ILMN_1901532,,,,"BX116795 Soares fetal liver spleen 1NFLS Homo sapiens cDNA clone IMAGp998B13393, mRNA sequence",HS.37204
+ILMN_1765500,NDUFV3,4731,NM_021075.3,"Homo sapiens NADH dehydrogenase (ubiquinone) flavoprotein 3, 10kDa (NDUFV3), nuclear gene encoding mitochondrial protein, transcript variant 1, mRNA.",NDUFV3

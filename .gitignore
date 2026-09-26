@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Note: data/external/ holds cached API responses (mygene.info, STRING).
+# They are kept in the repo for offline reproducibility. Remove the next
+# line if you prefer to re-fetch them on every run.
+# data/external/

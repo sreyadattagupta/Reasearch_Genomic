@@ -1,0 +1,33 @@
+dataset,probe_id,Coefficient,Importance,gene_symbol,gene_name,entrezgene,ensembl_gene,n_gene_hits,source
+GSE57475,ILMN_2359029,0.0618480855074892,0.0618480855074892,C11orf17,"Homo sapiens chromosome 11 open reading frame 17 (C11orf17), transcript variant 2, mRNA.",56672,,1,geo_platform
+GSE57475,ILMN_1702197,0.0561980551455704,0.0561980551455704,C9orf140,"Homo sapiens chromosome 9 open reading frame 140 (C9orf140), mRNA.",89958,,1,geo_platform
+GSE57475,ILMN_1653712,0.0544875031717109,0.0544875031717109,UAP1L1,"Homo sapiens UDP-N-acteylglucosamine pyrophosphorylase 1-like 1 (UAP1L1), mRNA.",91373,,1,geo_platform
+GSE57475,ILMN_1834190,0.0526842359921222,0.0526842359921222,,,,,0,
+GSE57475,ILMN_1813833,-0.0521793230589401,0.0521793230589401,NARFL,"Homo sapiens nuclear prelamin A recognition factor-like (NARFL), mRNA.",64428,,1,geo_platform
+GSE57475,ILMN_1722738,-0.0521387063388845,0.0521387063388845,ROGDI,"Homo sapiens rogdi homolog (Drosophila) (ROGDI), mRNA.",79641,,1,geo_platform
+GSE57475,ILMN_2390310,0.0498161898047753,0.0498161898047753,C17orf91,"Homo sapiens chromosome 17 open reading frame 91 (C17orf91), transcript variant 2, mRNA.",84981,,1,geo_platform
+GSE57475,ILMN_1731720,-0.0484208165022662,0.0484208165022662,PDRG1,"Homo sapiens p53 and DNA damage regulated 1 (PDRG1), mRNA.",81572,,1,geo_platform
+GSE57475,ILMN_1672165,0.0480885744291517,0.0480885744291517,LOC643453,"PREDICTED: Homo sapiens hypothetical protein LOC643453 (LOC643453), mRNA.",643453,,1,geo_platform
+GSE57475,ILMN_1696974,0.0478449857430371,0.0478449857430371,ANG,"Homo sapiens angiogenin, ribonuclease, RNase A family, 5 (ANG), transcript variant 2, mRNA.",283,,1,geo_platform
+GSE57475,ILMN_2285618,0.0455384827375522,0.0455384827375522,DIP2A,"Homo sapiens DIP2 disco-interacting protein 2 homolog A (Drosophila) (DIP2A), transcript variant 1, mRNA.",23181,,1,geo_platform
+GSE57475,ILMN_2062754,0.0434326397655941,0.0434326397655941,SRA1,"Homo sapiens steroid receptor RNA activator 1 (SRA1), mRNA.",10011,,1,geo_platform
+GSE57475,ILMN_1685602,-0.0428976212657107,0.0428976212657107,TMEM41A,"Homo sapiens transmembrane protein 41A (TMEM41A), mRNA.",90407,,1,geo_platform
+GSE57475,ILMN_1901532,0.042804701885611,0.042804701885611,,,,,0,
+GSE57475,ILMN_2352023,0.0424385546058163,0.0424385546058163,RIPK5,"Homo sapiens receptor interacting protein kinase 5 (RIPK5), transcript variant 2, mRNA.",25778,,1,geo_platform
+GSE57475,ILMN_1687359,-0.0419923334149989,0.0419923334149989,MRPS23,"Homo sapiens mitochondrial ribosomal protein S23 (MRPS23), nuclear gene encoding mitochondrial protein, mRNA.",51649,,1,geo_platform
+GSE57475,ILMN_1749834,0.0416534240088208,0.0416534240088208,LOC388588,"PREDICTED: Homo sapiens hypothetical LOC388588, transcript variant 2 (LOC388588), mRNA.",388588,,1,geo_platform
+GSE57475,ILMN_1806304,0.0416325133739002,0.0416325133739002,ENTPD4,"Homo sapiens ectonucleoside triphosphate diphosphohydrolase 4 (ENTPD4), mRNA.",9583,,1,geo_platform
+GSE57475,ILMN_1670542,-0.0414511860355954,0.0414511860355954,AK2,"Homo sapiens adenylate kinase 2 (AK2), transcript variant AK2A, mRNA.",204,,1,geo_platform
+GSE57475,ILMN_1681888,0.0412127149896175,0.0412127149896175,PRKAR2A,"Homo sapiens protein kinase, cAMP-dependent, regulatory, type II, alpha (PRKAR2A), mRNA.",5576,,1,geo_platform
+GSE57475,ILMN_1723494,-0.0404636243256704,0.0404636243256704,SIRT2,"Homo sapiens sirtuin (silent mating type information regulation 2 homolog) 2 (S. cerevisiae) (SIRT2), transcript variant 1, mRNA.",22933,,1,geo_platform
+GSE57475,ILMN_1702229,0.0393800747706067,0.0393800747706067,CECR6,"Homo sapiens cat eye syndrome chromosome region, candidate 6 (CECR6), mRNA.",27439,,1,geo_platform
+GSE57475,ILMN_1706410,-0.0390583929356954,0.0390583929356954,HUS1B,"Homo sapiens HUS1 checkpoint homolog b (S. pombe) (HUS1B), mRNA.",135458,,1,geo_platform
+GSE57475,ILMN_2153485,-0.0387623064163649,0.0387623064163649,NMNAT3,"Homo sapiens nicotinamide nucleotide adenylyltransferase 3 (NMNAT3), mRNA.",349565,,1,geo_platform
+GSE57475,ILMN_1779751,0.0386474567525205,0.0386474567525205,C7orf55,"Homo sapiens chromosome 7 open reading frame 55 (C7orf55), mRNA.",154791,,1,geo_platform
+GSE57475,ILMN_1727642,-0.0384133963407009,0.0384133963407009,GCS1,"Homo sapiens glucosidase I (GCS1), mRNA.",7841,,1,geo_platform
+GSE57475,ILMN_1765500,-0.0383158338184238,0.0383158338184238,NDUFV3,"Homo sapiens NADH dehydrogenase (ubiquinone) flavoprotein 3, 10kDa (NDUFV3), nuclear gene encoding mitochondrial protein, transcript variant 1, mRNA.",4731,,1,geo_platform
+GSE57475,ILMN_1791149,-0.0382228218029505,0.0382228218029505,ARL6IP4,"Homo sapiens ADP-ribosylation-like factor 6 interacting protein 4 (ARL6IP4), transcript variant 1, mRNA.",51329,,1,geo_platform
+GSE57475,ILMN_1807613,0.0375210030976644,0.0375210030976644,GPR34,"Homo sapiens G protein-coupled receptor 34 (GPR34), transcript variant 2, mRNA.",2857,,1,geo_platform
+GSE57475,ILMN_1752914,-0.0362987230198488,0.0362987230198488,CDGAP,"Homo sapiens Cdc42 GTPase-activating protein (CDGAP), mRNA.",57514,,1,geo_platform
+GSE57475,ILMN_1792323,0.0359717067927341,0.0359717067927341,HDC,"Homo sapiens histidine decarboxylase (HDC), mRNA.",3067,,1,geo_platform
+GSE57475,ILMN_1905013,-0.0359567184165274,0.0359567184165274,,,,,0,

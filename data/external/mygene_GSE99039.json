@@ -1,0 +1,462 @@
+[
+  {
+    "query": "1554241_at",
+    "_id": "1690",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000100473"
+    },
+    "entrezgene": "1690",
+    "name": "cochlin",
+    "symbol": "COCH"
+  },
+  {
+    "query": "1555237_at",
+    "notfound": true
+  },
+  {
+    "query": "1555282_a_at",
+    "_id": "133522",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000155846"
+    },
+    "entrezgene": "133522",
+    "name": "PPARG coactivator 1 beta",
+    "symbol": "PPARGC1B"
+  },
+  {
+    "query": "1555821_a_at",
+    "_id": "84335",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000204673"
+    },
+    "entrezgene": "84335",
+    "name": "AKT1 substrate 1",
+    "symbol": "AKT1S1"
+  },
+  {
+    "query": "1556009_at",
+    "_id": "5194",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000162928"
+    },
+    "entrezgene": "5194",
+    "name": "peroxisomal biogenesis factor 13",
+    "symbol": "PEX13"
+  },
+  {
+    "query": "1558919_a_at",
+    "_id": "11196",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000107651"
+    },
+    "entrezgene": "11196",
+    "name": "SEC23 interacting protein",
+    "symbol": "SEC23IP"
+  },
+  {
+    "query": "1563845_at",
+    "_id": "285596",
+    "_score": 17.998209,
+    "ensembl": {
+      "gene": "ENSG00000170074"
+    },
+    "entrezgene": "285596",
+    "name": "family with sequence similarity 153 member A",
+    "symbol": "FAM153A"
+  },
+  {
+    "query": "1563845_at",
+    "_id": "202134",
+    "_score": 17.998209,
+    "entrezgene": "202134",
+    "name": "protein FAM153B",
+    "symbol": "FAM153B"
+  },
+  {
+    "query": "1567628_at",
+    "_id": "972",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000019582"
+    },
+    "entrezgene": "972",
+    "name": "CD74 molecule",
+    "symbol": "CD74"
+  },
+  {
+    "query": "1569353_at",
+    "_id": "9738",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000103540"
+    },
+    "entrezgene": "9738",
+    "name": "centriolar coiled-coil protein 110",
+    "symbol": "CCP110"
+  },
+  {
+    "query": "203781_at",
+    "_id": "9553",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000243147"
+    },
+    "entrezgene": "9553",
+    "name": "mitochondrial ribosomal protein L33",
+    "symbol": "MRPL33"
+  },
+  {
+    "query": "204758_s_at",
+    "_id": "9854",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000172375"
+    },
+    "entrezgene": "9854",
+    "name": "C2CD2 like",
+    "symbol": "C2CD2L"
+  },
+  {
+    "query": "207591_s_at",
+    "_id": "8289",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000117713"
+    },
+    "entrezgene": "8289",
+    "name": "AT-rich interaction domain 1A",
+    "symbol": "ARID1A"
+  },
+  {
+    "query": "209197_at",
+    "_id": "23208",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000132718"
+    },
+    "entrezgene": "23208",
+    "name": "synaptotagmin 11",
+    "symbol": "SYT11"
+  },
+  {
+    "query": "210404_x_at",
+    "_id": "816",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000058404"
+    },
+    "entrezgene": "816",
+    "name": "calcium/calmodulin dependent protein kinase II beta",
+    "symbol": "CAMK2B"
+  },
+  {
+    "query": "211430_s_at",
+    "_id": "3500",
+    "_score": 16.10236,
+    "ensembl": {
+      "gene": "ENSG00000211896"
+    },
+    "entrezgene": "3500",
+    "name": "immunoglobulin heavy constant gamma 1 (G1m marker)",
+    "symbol": "IGHG1"
+  },
+  {
+    "query": "211430_s_at",
+    "_id": "3501",
+    "_score": 16.10236,
+    "ensembl": {
+      "gene": "ENSG00000211893"
+    },
+    "entrezgene": "3501",
+    "name": "immunoglobulin heavy constant gamma 2 (G2m marker)",
+    "symbol": "IGHG2"
+  },
+  {
+    "query": "211430_s_at",
+    "_id": "3507",
+    "_score": 16.10236,
+    "ensembl": {
+      "gene": "ENSG00000211899"
+    },
+    "entrezgene": "3507",
+    "name": "immunoglobulin heavy constant mu",
+    "symbol": "IGHM"
+  },
+  {
+    "query": "211430_s_at",
+    "_id": "102465871",
+    "_score": 16.10236,
+    "ensembl": {
+      "gene": "ENSG00000274172"
+    },
+    "entrezgene": "102465871",
+    "name": "microRNA 8071-1",
+    "symbol": "MIR8071-1"
+  },
+  {
+    "query": "211430_s_at",
+    "_id": "102466889",
+    "_score": 16.10236,
+    "ensembl": {
+      "gene": "ENSG00000277030"
+    },
+    "entrezgene": "102466889",
+    "name": "microRNA 8071-2",
+    "symbol": "MIR8071-2"
+  },
+  {
+    "query": "211430_s_at",
+    "_id": "28396",
+    "_score": 16.10236,
+    "entrezgene": "28396",
+    "name": "immunoglobulin heavy variable 4-31",
+    "symbol": "IGHV4-31"
+  },
+  {
+    "query": "211650_x_at",
+    "_id": "28442",
+    "_score": 15.570091,
+    "ensembl": {
+      "gene": "ENSG00000211949"
+    },
+    "entrezgene": "28442",
+    "name": "immunoglobulin heavy variable 3-23",
+    "symbol": "IGHV3-23"
+  },
+  {
+    "query": "211650_x_at",
+    "_id": "3493",
+    "_score": 15.570091,
+    "ensembl": {
+      "gene": "ENSG00000211895"
+    },
+    "entrezgene": "3493",
+    "name": "immunoglobulin heavy constant alpha 1",
+    "symbol": "IGHA1"
+  },
+  {
+    "query": "211650_x_at",
+    "_id": "3495",
+    "_score": 15.570091,
+    "ensembl": {
+      "gene": "ENSG00000211898"
+    },
+    "entrezgene": "3495",
+    "name": "immunoglobulin heavy constant delta",
+    "symbol": "IGHD"
+  },
+  {
+    "query": "211650_x_at",
+    "_id": "3500",
+    "_score": 15.570091,
+    "ensembl": {
+      "gene": "ENSG00000211896"
+    },
+    "entrezgene": "3500",
+    "name": "immunoglobulin heavy constant gamma 1 (G1m marker)",
+    "symbol": "IGHG1"
+  },
+  {
+    "query": "211650_x_at",
+    "_id": "3502",
+    "_score": 15.570091,
+    "ensembl": {
+      "gene": "ENSG00000211897"
+    },
+    "entrezgene": "3502",
+    "name": "immunoglobulin heavy constant gamma 3 (G3m marker)",
+    "symbol": "IGHG3"
+  },
+  {
+    "query": "211650_x_at",
+    "_id": "3507",
+    "_score": 15.570091,
+    "ensembl": {
+      "gene": "ENSG00000211899"
+    },
+    "entrezgene": "3507",
+    "name": "immunoglobulin heavy constant mu",
+    "symbol": "IGHM"
+  },
+  {
+    "query": "211650_x_at",
+    "_id": "28396",
+    "_score": 15.570091,
+    "entrezgene": "28396",
+    "name": "immunoglobulin heavy variable 4-31",
+    "symbol": "IGHV4-31"
+  },
+  {
+    "query": "211650_x_at",
+    "_id": "3492",
+    "_score": 15.570091,
+    "entrezgene": "3492",
+    "name": "immunoglobulin heavy locus",
+    "symbol": "IGH"
+  },
+  {
+    "query": "214149_s_at",
+    "_id": "8992",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000113732"
+    },
+    "entrezgene": "8992",
+    "name": "ATPase H+ transporting V0 subunit e1",
+    "symbol": "ATP6V0E1"
+  },
+  {
+    "query": "214980_at",
+    "_id": "7337",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000114062"
+    },
+    "entrezgene": "7337",
+    "name": "ubiquitin protein ligase E3A",
+    "symbol": "UBE3A"
+  },
+  {
+    "query": "215421_at",
+    "notfound": true
+  },
+  {
+    "query": "216857_at",
+    "_id": "51561",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000110944"
+    },
+    "entrezgene": "51561",
+    "name": "interleukin 23 subunit alpha",
+    "symbol": "IL23A"
+  },
+  {
+    "query": "222286_at",
+    "_id": "6619",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000164975"
+    },
+    "entrezgene": "6619",
+    "name": "small nuclear RNA activating complex polypeptide 3",
+    "symbol": "SNAPC3"
+  },
+  {
+    "query": "224357_s_at",
+    "_id": "51338",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000110079"
+    },
+    "entrezgene": "51338",
+    "name": "membrane spanning 4-domains A4A",
+    "symbol": "MS4A4A"
+  },
+  {
+    "query": "226925_at",
+    "_id": "92370",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000155893"
+    },
+    "entrezgene": "92370",
+    "name": "2-phosphoxylose phosphatase 1",
+    "symbol": "PXYLP1"
+  },
+  {
+    "query": "228209_at",
+    "_id": "100527964",
+    "_score": 19.011751,
+    "entrezgene": "100527964",
+    "name": "LHX4 antisense RNA 1",
+    "symbol": "LHX4-AS1"
+  },
+  {
+    "query": "229653_at",
+    "_id": "55275",
+    "_score": 19.011751,
+    "ensembl": [
+      {
+        "gene": "ENSG00000283883"
+      },
+      {
+        "gene": "ENSG00000141252"
+      }
+    ],
+    "entrezgene": "55275",
+    "name": "VPS53 subunit of GARP complex",
+    "symbol": "VPS53"
+  },
+  {
+    "query": "232235_at",
+    "_id": "92126",
+    "_score": 19.011751,
+    "ensembl": [
+      {
+        "gene": "ENSG00000262102"
+      },
+      {
+        "gene": "ENSG00000171451"
+      }
+    ],
+    "entrezgene": "92126",
+    "name": "dermatan sulfate epimerase like",
+    "symbol": "DSEL"
+  },
+  {
+    "query": "234055_s_at",
+    "_id": "64412",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000125812"
+    },
+    "entrezgene": "64412",
+    "name": "GDNF inducible zinc finger protein 1",
+    "symbol": "GZF1"
+  },
+  {
+    "query": "235965_at",
+    "notfound": true
+  },
+  {
+    "query": "239403_at",
+    "_id": "90060",
+    "_score": 19.011751,
+    "ensembl": [
+      {
+        "gene": "ENSG00000147144"
+      },
+      {
+        "gene": "ENSG00000292279"
+      }
+    ],
+    "entrezgene": "90060",
+    "name": "coiled-coil domain containing 120",
+    "symbol": "CCDC120"
+  },
+  {
+    "query": "241319_at",
+    "notfound": true
+  },
+  {
+    "query": "243807_at",
+    "_id": "135112",
+    "_score": 19.011751,
+    "ensembl": {
+      "gene": "ENSG00000111912"
+    },
+    "entrezgene": "135112",
+    "name": "nuclear receptor coactivator 7",
+    "symbol": "NCOA7"
+  },
+  {
+    "query": "244594_x_at",
+    "notfound": true
+  }
+]

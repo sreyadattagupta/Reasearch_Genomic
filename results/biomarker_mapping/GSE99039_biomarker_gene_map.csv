@@ -1,0 +1,33 @@
+dataset,probe_id,gene_symbol,gene_name,entrezgene,ensembl_gene,n_gene_hits,source
+GSE99039,1554241_at,COCH,cochlin,1690,ENSG00000100473,1,mygene
+GSE99039,1555237_at,,,,,0,
+GSE99039,1555282_a_at,PPARGC1B,PPARG coactivator 1 beta,133522,ENSG00000155846,1,mygene
+GSE99039,1555821_a_at,AKT1S1,AKT1 substrate 1,84335,ENSG00000204673,1,mygene
+GSE99039,1556009_at,PEX13,peroxisomal biogenesis factor 13,5194,ENSG00000162928,1,mygene
+GSE99039,1558919_a_at,SEC23IP,SEC23 interacting protein,11196,ENSG00000107651,1,mygene
+GSE99039,1563845_at,FAM153A,family with sequence similarity 153 member A,285596,ENSG00000170074,2,mygene
+GSE99039,1567628_at,CD74,CD74 molecule,972,ENSG00000019582,1,mygene
+GSE99039,1569353_at,CCP110,centriolar coiled-coil protein 110,9738,ENSG00000103540,1,mygene
+GSE99039,203781_at,MRPL33,mitochondrial ribosomal protein L33,9553,ENSG00000243147,1,mygene
+GSE99039,204758_s_at,C2CD2L,C2CD2 like,9854,ENSG00000172375,1,mygene
+GSE99039,207591_s_at,ARID1A,AT-rich interaction domain 1A,8289,ENSG00000117713,1,mygene
+GSE99039,209197_at,SYT11,synaptotagmin 11,23208,ENSG00000132718,1,mygene
+GSE99039,210404_x_at,CAMK2B,calcium/calmodulin dependent protein kinase II beta,816,ENSG00000058404,1,mygene
+GSE99039,211430_s_at,IGHG1,immunoglobulin heavy constant gamma 1 (G1m marker),3500,ENSG00000211896,6,mygene
+GSE99039,211650_x_at,IGHV3-23,immunoglobulin heavy variable 3-23,28442,ENSG00000211949,8,mygene
+GSE99039,214149_s_at,ATP6V0E1,ATPase H+ transporting V0 subunit e1,8992,ENSG00000113732,1,mygene
+GSE99039,214980_at,UBE3A,ubiquitin protein ligase E3A,7337,ENSG00000114062,1,mygene
+GSE99039,215421_at,,,,,0,
+GSE99039,216857_at,IL23A,interleukin 23 subunit alpha,51561,ENSG00000110944,1,mygene
+GSE99039,222286_at,SNAPC3,small nuclear RNA activating complex polypeptide 3,6619,ENSG00000164975,1,mygene
+GSE99039,224357_s_at,MS4A4A,membrane spanning 4-domains A4A,51338,ENSG00000110079,1,mygene
+GSE99039,226925_at,PXYLP1,2-phosphoxylose phosphatase 1,92370,ENSG00000155893,1,mygene
+GSE99039,228209_at,LHX4-AS1,LHX4 antisense RNA 1,100527964,,1,mygene
+GSE99039,229653_at,VPS53,VPS53 subunit of GARP complex,55275,ENSG00000283883|ENSG00000141252,1,mygene
+GSE99039,232235_at,DSEL,dermatan sulfate epimerase like,92126,ENSG00000262102|ENSG00000171451,1,mygene
+GSE99039,234055_s_at,GZF1,GDNF inducible zinc finger protein 1,64412,ENSG00000125812,1,mygene
+GSE99039,235965_at,,,,,0,
+GSE99039,239403_at,CCDC120,coiled-coil domain containing 120,90060,ENSG00000147144|ENSG00000292279,1,mygene
+GSE99039,241319_at,,,,,0,
+GSE99039,243807_at,NCOA7,nuclear receptor coactivator 7,135112,ENSG00000111912,1,mygene
+GSE99039,244594_x_at,,,,,0,
